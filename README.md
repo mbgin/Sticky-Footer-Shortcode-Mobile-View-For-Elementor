@@ -1,5 +1,6 @@
 # Sticky-Footer-Shortcode-Mobile-View-For-Elementor
 Simple Plugin Wordpress to make sticky footer for Elementor
+
 This plugin design to your footer keep sticky when scrolling on mobile layout
 
 How To Use :
